@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string name="learn_about">LEARN ABOUT :-</string>
+    <string name="colors">Colors</string>
+    <string name="colors1">COLORS</string>
+    <string name="animals">ANIMALS</string>
+    <string name="birds">BIRDS</string>
+    <string name="learn_more">learn more</string>
+</resources>
